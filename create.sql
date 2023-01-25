@@ -9,8 +9,7 @@ CREATE TABLE accident (
 
 CREATE TABLE country (
 	country_id     serial         NOT NULL,
-	country_name   varchar(30)    NOT NULL,
-  country_state  varchar(30)    
+	country_name   varchar(30)    NOT NULL 
  
 );
 
